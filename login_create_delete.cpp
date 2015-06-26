@@ -63,13 +63,3 @@ void myDelete(string id, string passwd){
 }
 
 
-
-
-
-
-
-
-
-
-
-
