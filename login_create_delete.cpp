@@ -32,7 +32,7 @@ void create(string id, string passwd){
 	it = accountMap.find(id);
 	if(it != accountMap.end()){
 		cout << "ID " << id << " exists, ";
-		// TODO: recommend best 10 usused id
+		// TODO: recommend best 10 usused ids
 	}
 	else{
 		Account a(passwd);
